@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: bank-market-serving-env
+    environment: null
     group_suffix: null
 global:
   application_name: bank_market_serving
