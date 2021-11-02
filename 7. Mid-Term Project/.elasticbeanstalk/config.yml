@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: bank-market-serving-env
+    group_suffix: null
+global:
+  application_name: bank_market_serving
+  branch: null
+  default_ec2_keyname: null
+  default_platform: Docker
+  default_region: ap-south-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: null
+  sc: null
+  workspace_type: Application
